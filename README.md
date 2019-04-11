@@ -1,4 +1,44 @@
-# NYU2019class2
-This is an example of a simple website with html, css, and javascript/iquery
+<!doctype html>
 
-We moved content over from our class 1 jsfiddle
+<link rel="stylesheet" href="css/styles.css?v=1.0">
+<h1>
+Ukrainian Conflict Line - Doctors of the World
+</h1>
+<img class="my-photo" src="http://www.ngoforum.org.ua/wp-content/uploads/2016/08/mdm.png">
+<h2>
+Key Stakeholders
+</h2>
+<h3>
+Humanitarian Organizations <ol>
+<li>IOM</li>
+<li>UNHCR</li>
+<li>DFID</li>
+<li>OCHA</li>
+<li>UNICEF</li>
+<li>ICRC</li>
+</ol
+<br />
+Donors
+<br />
+<ol>
+<li>ECHO</li>
+<li>DFID</li>
+</ol
+<br />
+Beneficiaries
+<br />
+</h3>
+
+<button id="alertButton">
+Post USSR Health Reform
+</button>
+
+<p><a title="MdM Website" href="https://doctorsoftheworld.org/project/ukraine/" target="_blank">Doctors of the World</a></p>
+<p><a href="mailto:err360@nyu.edu?Subject=Hi%20mate"> Send Mail To:</a></p>
+
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script src="js/scripts.js"></script>
